@@ -19,4 +19,4 @@ Modern AI data centers running dense LLM training loops experience massive therm
 ## 🛠️ Tech Stack
 * **Core Engine & Backend:** Python (Native HTTP Networking Architectures, JSON State Management, Multithreaded Telemetry Simulation Loops)
 * **Interface Matrix & Frontend:** HTML5, Tailwind CSS, JavaScript (Async Telemetry Polling, API Communication, Dynamic UI Rendering Layers)
-* 
+* https://github.com/paka2002/AstraDC/blob/fb7eb7679b5734511201ecf70c302e079bb7cad9/Screenshot_20260522-033424.png
